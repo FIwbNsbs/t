@@ -16,7 +16,7 @@ import pyfiglet
 from time import sleep
 lo=pyfiglet.figlet_format('• TOPAC •')
 
-n_threads = 400  
+n_threads = 50
 threads = []
 Z = '\033[1;31m' #احمر
 X = '\033[1;33m' #اصفر
